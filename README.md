@@ -3,7 +3,7 @@
 🎓 B. Sc. in Science and Technology and M. Sc. in Science and Technology Chemistry at the Federal University of ABC (UFABC).</br>
 🚩 My interests cover Organic Chemistry ⚗️, Photochemistry 🌈, and Cheminformatics ⌨️.</br>
 
-🔧 Skills</br>
+🔧 Computational Skills</br>
 
 |**Python**<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/8021054/210259864-2596a1e3-aa2a-4703-ba05-f771f16213e1.svg" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**Scikit-Learn**<br/><br/><img src="https://user-images.githubusercontent.com/8021054/210260211-1b807630-28d0-4439-9f47-779446a681d9.png" width="90" />|**Numpy**<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/8021054/210260478-4c19a2e5-0042-4979-a7a8-acb5585cf702.svg" width="45" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**Pandas**<br/><br/><img src="https://user-images.githubusercontent.com/8021054/210260679-7c900719-fcba-4384-97e7-9473753cd2dc.svg" width="100" />|**Matplotlib**<br/><br/>&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/8021054/210260886-d0b2cc26-b8fb-458c-b3b0-65edfd6a8110.png" width="40" />&nbsp;&nbsp;|
 |:-----------:|:--------------:|:----------:|:--------------:|:-------------:|
