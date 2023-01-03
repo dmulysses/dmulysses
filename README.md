@@ -1,3 +1,6 @@
+# About Me
+[<img src="https://user-images.githubusercontent.com/8021054/210418731-91fb5714-547c-42ec-9dd0-65e9d8cce1ca.svg" />](https://www.linkedin.com/in/dmulysses/)
+
 👋 Hi, I’m Diego Melo, currently living in São Paulo, Brazil.</br>
 🌱 I’m currently a Ph. D. student in Science and Technology Chemistry at the Federal University of ABC (UFABC).</br>
 🎓 B. Sc. in Science and Technology and M. Sc. in Science and Technology Chemistry at the Federal University of ABC (UFABC).</br>
@@ -12,6 +15,8 @@
 🧐 Passionate about solving fundamental natural science problems such as light-emitting chemical reactions and excited state reaction mechanisms, combing advanced techniques in organic synthesis, spectrophotometry, and tools in computational chemistry.
 
 <img src="https://user-images.githubusercontent.com/8021054/210272311-40d52af3-af67-419b-aef5-463aaf116859.gif" width="240" />&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/8021054/210269083-cac83bef-959e-4cd9-8d80-f06b31f4c88c.gif" />&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/8021054/210269919-5380cad1-50db-40e5-b5bd-70943b58bba4.gif" />
+
+
 
 <!---
 dmulysses/dmulysses is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
