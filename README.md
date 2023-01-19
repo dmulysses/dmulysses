@@ -4,7 +4,7 @@
 👋 Hi, I’m Diego Melo, currently living in São Paulo, Brazil.</br>
 🌱 I’m currently a Ph. D. student in Science and Technology Chemistry at the Federal University of ABC (UFABC).</br>
 🎓 B. Sc. in Science and Technology and M. Sc. in Science and Technology Chemistry at the Federal University of ABC (UFABC).</br>
-🚩 My interests cover Organic Chemistry ⚗️, Photochemistry 🌈, and Cheminformatics ⌨️.</br>
+🚩 My interests cover  Data Science ⌨️ and Organic Chemistry ⚗️.</br>
 
 🔧 Computational Skills</br>
 
