@@ -12,7 +12,7 @@
 |:-----------:|:--------------:|:----------:|:--------------:|:-------------:|
 |**Plotly**<br/><br/><img src="https://user-images.githubusercontent.com/8021054/210261042-cd8f2d04-f37f-401a-a37e-f9155c03d600.png" width="60" />|**Seaborn**<br/><br/><img src="https://user-images.githubusercontent.com/8021054/210261246-7b727c31-886a-4d49-b8e1-cb5f80b699c5.svg" width="60" />|**TPOT**<br/><br/><img src="https://user-images.githubusercontent.com/8021054/210261536-7a81c45a-979d-4156-bf1a-eb2177c9d8c5.png" width="65" />|**OriginPro**<br/><br/><img src="https://user-images.githubusercontent.com/8021054/210261651-a7e644dd-fc1e-4cbb-9228-c959332d4f7a.png" width="60" />|**Orca**<br/><br/><img src="https://user-images.githubusercontent.com/8021054/210261818-595876b0-9bce-43ad-a5e9-d6c8bfa9b566.png" width="90" />|
 
-🧐 Passionate about solving fundamental natural science problems such as light-emitting chemical reactions and excited state reaction mechanisms, combing advanced techniques in organic synthesis, spectrophotometry, and tools in computational chemistry.
+🧐 Passionate about solving fundamental natural science problems by combing advanced techniques in organic synthesis, spectrophotometry, and tools in computational chemistry.
 
 <img src="https://user-images.githubusercontent.com/8021054/210272311-40d52af3-af67-419b-aef5-463aaf116859.gif" width="240" />&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/8021054/210269083-cac83bef-959e-4cd9-8d80-f06b31f4c88c.gif" />&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/8021054/210269919-5380cad1-50db-40e5-b5bd-70943b58bba4.gif" />
 
